@@ -1,0 +1,19 @@
+Recession is a business cycle contraction when there is a general decline in economic activity. A recession occurs when there is a 
+widespread drop in spending which may be due to various events like financial crisis, an external trade shock or bursting of an economic 
+bubble. During a recession, we find a steady decline in GDP, income, employment, sales, and industrial production. 
+The recession hit the United States in December 2007 and lasted for about 18 months (June 2009)
+
+Let’s find out if mean housing prices in University Towns were less affected by the recession than other Towns.
+We use the Hypothesis testing approach to find out if mean housing prices in University Towns were less affected during the recession. 
+
+You can read more about Hypothesis Testing here
+Question: Are mean Housing prices in University Towns less affected by the recession than other Towns?
+Null Hypothesis: Mean Housing prices of the university towns were equally affected(not less) by the recession.
+
+Data:
+1. From the Zillow.com there is housing data for the United States. In particular the data file for all homes at a city level, 
+   this file has median home sale prices at a fine-grained level.
+2. From the Wikipedia page on college towns is a list of university towns in the United States which has been copied and pasted 
+   into the file university towns.
+3. From the Bureau of Economic Analysis, US Department of Commerce, the GDP overtime of the United States in current dollars, 
+   in quarterly intervals, in the file GDP
